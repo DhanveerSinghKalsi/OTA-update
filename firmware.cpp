@@ -4,6 +4,7 @@
 #include <WiFiClientSecure.h>
 #include "cert.h"
 
+
 const char * ssid = "Al-Imaad";
 const char * wifiPassword = "7760@_Ahmad";
 int status = WL_IDLE_STATUS;
